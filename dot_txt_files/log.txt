@@ -1,0 +1,21 @@
+LOG: (15)Basic usage Guide
+LOG: (14) Save and Exit
+LOG: (3) Show all my albums
+LOG: (1) Show all songs (Main Collection)
+LOG: (12) View Play History
+LOG: (10) View Queue
+LOG: (4) Create a new album
+LOG: (3) Show all my albums
+LOG: (5) Add song from Database to album
+LOG: (3) Show all my albums
+LOG: (7) Delete an album
+LOG: (4) Create a new album
+LOG: (4) Create a new album
+LOG: (3) Show all my albums
+LOG: (7) Delete an album
+LOG: (3) Show all my albums
+LOG: (7) Delete an album
+LOG: (15)Basic usage Guide
+LOG: (14) Save and Exit
+LOG: (13) User viewed Logs
+LOG: (14) Save and Exit
